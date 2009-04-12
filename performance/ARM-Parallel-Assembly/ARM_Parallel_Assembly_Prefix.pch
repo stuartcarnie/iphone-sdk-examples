@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'ARM-Parallel-Assembly' target in the 'ARM-Parallel-Assembly' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
